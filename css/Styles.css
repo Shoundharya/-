@@ -139,3 +139,7 @@ a:hover{
   color: #2F8F9D;
   font-size: 0.75rem;
 }
+.mail{
+  width: 50%;
+  margin: 10px auto 10px auto;
+}
